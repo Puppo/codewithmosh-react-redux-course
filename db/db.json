@@ -1,0 +1,48 @@
+{
+  "bugs": [
+    {
+      "id": 1,
+      "description": "Bug 1",
+      "userId": 1,
+      "resolved": false
+    },
+    {
+      "id": 2,
+      "description": "Bug 2",
+      "userId": 1,
+      "resolved": false
+    },
+    {
+      "id": 3,
+      "description": "Bug 3",
+      "userId": 2,
+      "resolved": true
+    },
+    {
+      "id": 4,
+      "description": "Bug 4",
+      "resolved": false,
+      "userId": 2
+    },
+    {
+      "description": "Bug 1",
+      "id": 5,
+      "resolved": true
+    },
+    {
+      "description": "Bug 1",
+      "id": 6,
+      "resolved": false
+    },
+    {
+      "description": "Bug 1",
+      "id": 7,
+      "resolved": true
+    },
+    {
+      "description": "Bug 1",
+      "id": 8,
+      "resolved": true
+    }
+  ]
+}
